@@ -1,0 +1,83 @@
+.senter .ul_number{
+    padding: 14px;
+    border: 1px solid black;
+    border-radius: 5px;
+    width: 135px;
+}
+
+.senter .amount{
+    padding: 14px;
+    border: 1px solid black;
+    border-radius: 5px;
+    width: 100px;
+}
+
+.senter .refch{
+    padding: 14px;
+    border: 1px solid black;
+    border-radius: 5px;
+    width: 100px;
+}
+
+.senter .password{
+    padding: 14px;
+    border: 1px solid black;
+    border-radius: 5px;
+    width: 135px;
+}
+
+.senter button{
+    padding: 14px;
+    border: 1px solid black;
+    border-radius: 5px;
+    width: 300px;
+}
+
+.position_senter{
+    top: 50%;
+    left: 30%;
+    transform: translateX(-50%) translateY(-50%);
+    position: absolute;
+}
+
+.position_resb{
+    top: 50%;
+    left: 70%;
+    transform: translateX(-50%) translateY(-50%);
+    position: absolute;
+}
+
+.cen{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+body{
+    font-family: 'Varela Round', sans-serif;
+}
+
+.refch .refch{
+    padding: 14px;
+    border: 1px solid black;
+    border-radius: 5px;
+    width: 270px;
+}
+
+.refch .ul_number{
+    padding: 14px;
+    border: 1px solid black;
+    border-radius: 5px;
+    width: 270px;
+}
+
+.refch button{
+    padding: 14px;
+    border: 1px solid black;
+    border-radius: 5px;
+    width: 300px;
+}
+
+.logo{
+    width: 200px;
+}
